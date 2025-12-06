@@ -23,5 +23,5 @@ This is a simple and clean **portfolio website** created using **HTML** and **ba
 This project serves as my personal online space to present my projects, share my background, and build my digital presence.
 
 ## How to view
-   you can access my portfolio  website by visiting [Link] feel free to explore the content and get in touch!
+   you can access my portfolio  website by visiting [Link  https://sarathkumar9100-stack.github.io/my-first-website-/] feel free to explore the content and get in touch!
       Thank you for visiting my portfolio website!
